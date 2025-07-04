@@ -1,5 +1,4 @@
 package org.example.models.products;
-
 import org.example.models.Product;
 
 public class ScratchCard extends Product {

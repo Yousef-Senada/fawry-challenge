@@ -1,6 +1,5 @@
 package org.example.models.products;
 import java.time.LocalDate;
-
 import org.example.models.Product;
 import org.example.models.interfaces.Expirable;
 import org.example.models.interfaces.Shippable;

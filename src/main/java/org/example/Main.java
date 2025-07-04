@@ -1,6 +1,5 @@
 package org.example;
 import java.time.LocalDate;
-
 import org.example.models.Cart;
 import org.example.models.Customer;
 import org.example.models.Product;
