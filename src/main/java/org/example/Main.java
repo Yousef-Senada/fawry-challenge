@@ -13,7 +13,7 @@ public class Main {
     public static void main(String[] args) {
         Product cheese = new Cheese("Cheese", 100, 10, LocalDate.of(2025, 7, 11), 0.2);
 
-        Product biscuit = new Biscuit("Biscuits", 150, 14, LocalDate.now().plusDays(180), 0.7);
+        Product biscuit = new Biscuit("Biscuits", 150, 14, LocalDate.of(2026, 7, 4), 0.7);
 
         Product tv = new TV("tv-samsung", 8000, 5, 10);
 
